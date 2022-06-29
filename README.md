@@ -21,11 +21,11 @@ hello！ 我是一名Java 工程师，目前在字节跳动实习
 
 ## ✏️ Recent Blog
 
-- <a href='https://www.yuque.com/qiujunlin1/tvu0gk/fyqm53' target='_blank'>dubbo的spi机制 https</a> - 2019-05-18
+- <a href='https://www.yuque.com/docs/share/a45ad454-9687-44d9-83c0-28b3f71e9da6?# 《dubbo spi》' target='_blank'>dubbo的spi机制 https</a> - 2019-05-18
 - <a href='http://www.blackcater.win/2019/01-01/javascript-engine-shapes-ics' target='_blank'>ThreadLocal和其兄弟</a> - 2019-05-01
-- <a href='http://www.blackcater.win/2019/04-09/iview-usage-experience' target='_blank'>Java并发源码分析</a> - 2019-04-09
-- <a href='http://www.blackcater.win/2019/03-01/deploy-your-own-npm-registry' target='_blank'>raft算法笔记</a> - 2019-03-01
-- <a href='http://www.blackcater.win/2019/02-08/mini-program-usage-experience-for-finger' target='_blank'>分布式锁</a> - 2019-02-08
+- <a href='https://www.yuque.com/docs/share/21801ecf-bd7c-4eb3-8776-fb28ab697e0c?# 《计算机组成原理》' target='_blank'>伪共享问题</a> - 2019-04-09
+- <a href='https://www.yuque.com/docs/share/41b8a625-9193-4380-af17-071a7f920855?# 《分布式理论》' target='_blank'>raft算法笔记</a> - 2019-03-01
+- <a href='https://www.yuque.com/docs/share/aebf2772-f031-4b40-aab9-0125d67c1dde?# 《分布式锁》' target='_blank'>分布式锁</a> - 2019-02-08
 
 ### ⚡ Technologies
 Talk to me about
