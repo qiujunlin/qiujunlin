@@ -30,8 +30,8 @@ hello！ 我是一名Java 工程师，目前在字节跳动实习
 ### ⚡ Technologies
 Talk to me about
 - 后端开发- **Java**
-- tools - **Git**
-- database - **Mysq**
+- tools - **Git，Linux**
+- database - **Mysq、Redis**
 - Data Analytics -**Python**
 - Framework - **Dubbo、Spring、SpringBoot**
 
