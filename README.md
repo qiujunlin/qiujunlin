@@ -37,7 +37,3 @@ Talk to me about
 
 <!-- wakatime_plugin_start -->
 
-
-
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-
