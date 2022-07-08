@@ -17,7 +17,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 hello！ 我是一名Java 工程师，目前在字节跳动实习
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="200 " height="200" /></a>
 
 ## ✏️ 最近写的博客
 - <a href='https://www.yuque.com/docs/share/aebf2772-f031-4b40-aab9-0125d67c1dde?# 《分布式锁》' target='_blank'>分布式锁的研究</a> - 2022-07-01
