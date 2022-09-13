@@ -30,7 +30,7 @@ hello！ 我是一名Java 工程师，目前在字节跳动实习
 ### ⚡ Technologies
 Talk to me about
 - 后端开发- **Java**
-- 数据结构与算法：擅长  
+- 数据结构与算法：**擅长**
 - tools - **Git，Linux**
 - database - **Mysq、Redis**
 - Data Analytics -**Python**
